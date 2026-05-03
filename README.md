@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/GnomoCarek/CutConvert/raw/main/assets/logo.png" alt="CutConvert Logo" width="180">
+  <img src="https://github.com/GnomoCarek/CutConvert/raw/main/assets/CutConvert.png" alt="CutConvert Logo" width="180">
 </p>
 
 # CutConvert 🎬🎵
